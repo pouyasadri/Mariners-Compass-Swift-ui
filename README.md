@@ -19,7 +19,7 @@ To run this project, you will need Xcode installed on your macOS system. Follow 
 
 1. Clone the repository to your local machine:
     ```bash
-    git clone https://github.com/yourusername/Mariners-Compass-SwiftUI.git
+    git clone https://github.com/pouyasadri/Mariners-Compass-SwiftUI.git
     ```
 
 2. Open the project in Xcode:
